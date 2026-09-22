@@ -1,3 +1,4 @@
+// Endpoint reference: https://super-parakeet-57w65r6rxxgf4qqq-8000.app.github.dev/api/workouts
 import { useEffect, useState } from 'react'
 import { fetchCollection } from '../api.js'
 
